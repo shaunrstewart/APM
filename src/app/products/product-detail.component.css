@@ -1,0 +1,13 @@
+.product-detail-content {
+    display: flex;
+    flex-direction: row;
+    margin: 2rem;
+}
+
+.product-detail-content > div {
+    
+}
+
+.product-detail-content img {
+    max-width: 20rem;
+}
